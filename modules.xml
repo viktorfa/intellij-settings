@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/proxy.iml" filepath="$PROJECT_DIR$/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-api/proxy-api.iml" filepath="$PROJECT_DIR$/proxy-api/proxy-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-config/proxy-config.iml" filepath="$PROJECT_DIR$/proxy-config/proxy-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-distribution/proxy-distribution.iml" filepath="$PROJECT_DIR$/proxy-distribution/proxy-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-idp/proxy-idp.iml" filepath="$PROJECT_DIR$/proxy-idp/proxy-idp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-proxy/proxy-proxy.iml" filepath="$PROJECT_DIR$/proxy-proxy/proxy-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-storage/proxy-storage.iml" filepath="$PROJECT_DIR$/proxy-storage/proxy-storage.iml" />
+    </modules>
+  </component>
+</project>

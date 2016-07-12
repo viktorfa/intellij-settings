@@ -1,6 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="viktorfa" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
   </component>
-</project>
+</application>

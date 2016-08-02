@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Directory 'C:\Users\vikfa\dev\oidc-proxy\dc16-oidc-proxy'" />
+    <option name="defaultScopeName" value="Directory 'C:\Users\vikfa\dev\oidc-proxy\dc16-oidc-proxy'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\vikfa\dev\oidc-proxy\dc16-oidc-proxy'" />
   </component>
 </application>
